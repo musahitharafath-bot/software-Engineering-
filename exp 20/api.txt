@@ -1,0 +1,4 @@
+API Module
+
+This module is responsible for backend API functionality.
+Developed on the feature-api branch.

@@ -1,0 +1,4 @@
+UI Module
+
+This module is responsible for the user interface of the team project.
+Developed on the feature-ui branch.
